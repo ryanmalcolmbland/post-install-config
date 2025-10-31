@@ -87,14 +87,14 @@ Description: Making sure the "Registaration Required" section in the user settin
 <img width="2578" height="1690" alt="image" src="https://github.com/user-attachments/assets/794a10a7-2219-4140-9dce-e111c75dec2b" />
 </p>
 <p>
-Description: Adding an agent who is part of the "Online Banking" team, who is assigned to the "SysAdmins" department, with a "Supreme Admin" role. 
+Description: Adding an agent who is part of the "Online Banking" team, and is assigned to the "SysAdmins" department with a "Supreme Admin" role. 
 </p>
 <br />
 <p>
 <img width="2682" height="1678" alt="image" src="https://github.com/user-attachments/assets/6af4b0f7-2291-4525-9fc6-96365ec9af65" />
 </p>
 <p>
-Description: Adding an agent who is assigned to the "Support" department, with a "View Only" role. 
+Description: Adding an agent who is also a part of the "Online Banking" team, and is assigned to the "Support" department with an "All-Access" role. 
 </p>
 <br />
 <p>
