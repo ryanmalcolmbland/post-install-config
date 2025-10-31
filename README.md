@@ -18,7 +18,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Operating Systems Used </h2>
 
-- Windows 11</b> (21H2)
+- Windows 11</b> (25H2)
 
 <h2>List of Post-Installation in 5 Clear Steps</h2>
 
