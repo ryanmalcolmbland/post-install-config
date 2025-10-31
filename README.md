@@ -100,6 +100,7 @@ Description: Adding an agent who is assigned to the "Support" department, with a
 <p>
 <img width="2624" height="1480" alt="image" src="https://github.com/user-attachments/assets/fbba8d15-95ce-44f9-849a-f9dccf2f8cf8" />
 </p>
+<p>
 <img width="2682" height="1444" alt="image" src="https://github.com/user-attachments/assets/10dca502-1e17-4c72-947f-4e4daeb8a9ae" />
 </p>
 <p>
